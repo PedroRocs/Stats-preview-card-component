@@ -63,6 +63,10 @@ body {
     margin-bottom: 20px;
 }
 
+#description h1 span{
+    color: var(--soft-violet);
+}
+
 #description p {
     font-size: 16px;
     font-weight: 400;
